@@ -6,7 +6,6 @@ ToyLib のヘッダファイルのうち、
 `Utils/MathUtil` など汎用ユーティリティ系は対象外としています。
 
 ---
-
 ## 1. Engine/Core
 
 - include/Engine/Core/Application.h  
