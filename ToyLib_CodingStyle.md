@@ -3,7 +3,6 @@
 ToyLib 全体でコードの品質と可読性を統一するための **公式コーディング規約**。  
 C++20 + OpenGL/SDL2 ベースで、Actor/Component 構成のゲームエンジンとして長期保守しやすい基準をまとめています。
 
-
 ---
 
 # 1. 命名規則（Naming Conventions）
