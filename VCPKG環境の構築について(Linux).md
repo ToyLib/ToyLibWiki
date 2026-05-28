@@ -3,7 +3,6 @@
 ```bash
 sudo apt update
 
-
 # ビルドツール一式
 sudo apt install -y \
   build-essential \
