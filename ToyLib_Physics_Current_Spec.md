@@ -1,5 +1,6 @@
 # ToyLib Physics System – Current Specification（現行仕様解説）
 
+
 > 対象：PhysWorld / GravityComponent / MoveComponent  
 > 前提：OBB + Ray + MTV を組み合わせた軽量キャラコントローラ型物理
 
